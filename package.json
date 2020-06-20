@@ -1,0 +1,19 @@
+{
+  "name": "node-and-git-exercise",
+  "version": "1.0.0",
+  "description": "\"This is a test dir to learn Git and Node\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TornadoDecimatesTrailerPark/Node-and-Git-exercise.git"
+  },
+  "author": "Chris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TornadoDecimatesTrailerPark/Node-and-Git-exercise/issues"
+  },
+  "homepage": "https://github.com/TornadoDecimatesTrailerPark/Node-and-Git-exercise#readme"
+}
